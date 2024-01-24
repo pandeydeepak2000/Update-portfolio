@@ -417,7 +417,9 @@ img {
 }
 
 .about__description {
-  text-align: center;
+  white-space: pre-line;
+  overflow: hidden;
+  /* text-align: center; */
   margin-bottom: var(--mb-2-5);
 }
 
