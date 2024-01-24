@@ -143,8 +143,8 @@ img {
 
 /*==================== REUSABLE CSS CLASSES ====================*/
 .section {
-  padding: 1rem;
-  margin-bottom: 18px;
+  padding: 1rem 0 4rem;
+  margin-bottom: -18px;
 }
 
 .section__title {
@@ -1318,7 +1318,7 @@ img {
     right: -3.5rem;
   }
   .swiper-container-horizontal > .swiper-pagination-bullets {
-    bottom: -4.5rem;
+    bottom: -2.5rem;
   }
 
   .contact__form {
